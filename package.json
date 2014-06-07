@@ -1,0 +1,20 @@
+{
+  "name": "svg-font",
+  "version": "0.0.0",
+  "description": "Parse a svg-font to a json object",
+  "main": "svg-font.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "author": "David Björklund <david.bjorklund@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "interpreted": "^0.5.0"
+  },
+  "dependencies": {
+    "run-parallel": "^1.0.0"
+  }
+}
