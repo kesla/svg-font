@@ -1,6 +1,6 @@
 {
   "name": "svg-font",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Parse a svg-font to a json object",
   "main": "svg-font.js",
   "directories": {
