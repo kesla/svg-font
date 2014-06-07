@@ -1,4 +1,4 @@
-# svg-font
+# svg-font[![build status](https://secure.travis-ci.org/kesla/svg-font.png)](http://travis-ci.org/kesla/svg-font)
 
 Parse a svg-font to a json object
 

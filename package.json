@@ -15,6 +15,14 @@
     "interpreted": "^0.5.0"
   },
   "dependencies": {
-    "run-parallel": "^1.0.0"
-  }
+    "trumpet": "^1.6.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kesla/svg-font.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kesla/svg-font/issues"
+  },
+  "homepage": "https://github.com/kesla/svg-font"
 }

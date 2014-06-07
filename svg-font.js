@@ -1,5 +1,4 @@
-var parallel = require('run-parallel')
-  , trumpet = require('trumpet')
+var trumpet = require('trumpet')
   , parse = function (callback) {
       var tr = trumpet()
         , result = {}
